@@ -96,8 +96,11 @@ _print da dica que destravou você._
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+_print do seu plano de estudos._
+<img width="1351" height="709" alt="image" src="https://github.com/user-attachments/assets/1911485e-e091-491e-9cfc-97a17f3cf9d6" />
+
 
 ### Como foi para você
 
 _Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Foi uma experiência muito boa! Gostei de conhecer o DIO Agent e ver na prática como um agente de IA pode ajudar nos estudos, na resolução de problemas e no planejamento da carreira. Achei interessante a forma como ele orienta sem simplesmente entregar tudo pronto. É uma ferramenta que pretendo continuar explorando e utilizando no meu desenvolvimento profissional.
