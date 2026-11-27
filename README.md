@@ -90,7 +90,9 @@ _print da explicação._
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+_print da dica que destravou você._
+<img width="1323" height="708" alt="image" src="https://github.com/user-attachments/assets/6f674d0a-7e44-49bf-90be-3eb9561427a5" />
+
 
 ### Planejar
 
