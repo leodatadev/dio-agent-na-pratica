@@ -78,29 +78,24 @@ Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada p
 
 ### Configure
 
-_print do DIO Agent se apresentando._
 <img width="1320" height="701" alt="image" src="https://github.com/user-attachments/assets/43f5d15a-0103-42f1-91bc-cd9813099522" />
 
 
 ### Estudar
 
-_print da explicação._
 <img width="1336" height="707" alt="image" src="https://github.com/user-attachments/assets/3c310e92-e0b0-4410-b905-c1f2445de036" />
 
 
 ### Praticar
 
-_print da dica que destravou você._
 <img width="1323" height="708" alt="image" src="https://github.com/user-attachments/assets/6f674d0a-7e44-49bf-90be-3eb9561427a5" />
 
 
 ### Planejar
 
-_print do seu plano de estudos._
 <img width="1351" height="709" alt="image" src="https://github.com/user-attachments/assets/1911485e-e091-491e-9cfc-97a17f3cf9d6" />
 
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
 Foi uma experiência muito boa! Gostei de conhecer o DIO Agent e ver na prática como um agente de IA pode ajudar nos estudos, na resolução de problemas e no planejamento da carreira. Achei interessante a forma como ele orienta sem simplesmente entregar tudo pronto. É uma ferramenta que pretendo continuar explorando e utilizando no meu desenvolvimento profissional.
